@@ -160,6 +160,9 @@ button {
   backdrop-filter: blur(2px);
   box-shadow: 5px 5px 10px rgb(154, 155, 156);
 }
+.services-item p {
+  font-size: 16px;
+}
 .icon {
   color: royalblue;
   font-size: 40px;
@@ -280,7 +283,7 @@ ul.social-media-links {
     font-size: 20px;
   }
   p {
-    font-size: 20px;
+    font-size: 18px;
   }
   .partner-icons {
     margin: 50px 0;
@@ -298,5 +301,8 @@ ul.social-media-links {
     align-items: flex-start;
     justify-content: space-around;
     margin: 20px auto;
+  }
+  .address {
+    padding-left: 20px;
   }
 }
