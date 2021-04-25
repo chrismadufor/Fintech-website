@@ -1,5 +1,6 @@
 # Fintech-website
-This is a landing page for a psuedo fintech company called NairaBank
+This is a landing page for a made-up fintech company called NairaBank
+Here is the live link: https://chrismadufor.github.io/Fintech-website/
 
 This page was written using HTML, CSS and Javascript. I chose these languages because they are the first I have learnt and they are relatively easy to build pages with.
 
